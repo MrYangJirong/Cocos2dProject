@@ -1,2 +1,2 @@
-# Cocos2dProject
+# LuaProject
 To stuty cocos2d-x
