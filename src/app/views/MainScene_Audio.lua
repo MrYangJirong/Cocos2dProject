@@ -31,6 +31,7 @@ function MainScene:onCreate()
     self:createLayer()
 end
 
+-- 添加注释
 function MainScene:ctor(app, name)
     print("调用ctor方法！！")
     
